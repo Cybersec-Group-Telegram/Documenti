@@ -1,4 +1,3 @@
-Regolamento.md
 # Regolamento gruppo (@sicurezzainformaticacybersec)
  
 Al fine di supportare discussioni costruttive, mantenere un livello minimo di decenza e di educazione, e promuovere la condivisione libera di informazioni, è vietato:
