@@ -43,7 +43,7 @@ I corsi consigliati sono quelli che coprono alcuni degli argomenti elencati qui 
 Quello su cui hai più dimestichezza. Se hai bisogno di un sistema operativo particolare di Penetration Test come ad esempio Kaly Linux, Parrot Os, BlackArch, BackBox è sempre possibile usare una Virtual Machine (Ad es. Virtualbox, Vmware). Oggi ricordiamo che è possibile grazie alla funzione implementata di Windows 10 che rilasciamo in questo link (https://www.semhardware.com/installare-linux-su-windows-10-tramite-il-wsl/) non usare Virtual Machine come (Virtualbox, Vmware)
 
 ## Forum Formazione con tutti i PDF scaricabili gratuitamente
-https://graficaeformazione.forumfree.it/ (Che è costantemente in aggiornamento), La scelta di usare Forumfree parte dal fatto che è un Forum gratuito che dà svariate possibilità di grafica, ma anche di sezioni e tanto altro ancora, senza limiti di spazio, nè vincoli di caricamento. 
+Il forum è in fase di realizzazione  
 
 ## Pagina Facebook
 - https://www.facebook.com/CyberSecGroup/
@@ -65,7 +65,7 @@ Motori di ricerca:
 - https://www.startpage.com/
 
 Formazione in pdf
-- https://graficaeformazione.forumfree.it/ (In aggiornamento)
+- Il forum è in fase di realizzazione 
 
 ## Le accortezze
 - La sicurezza informatica è un aiuto per aziende e imprese
