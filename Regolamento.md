@@ -1,4 +1,4 @@
-# Regolamento gruppo (@sicurezzainformaticacybersec)
+# Regolamento del gruppo
  
 Al fine di supportare discussioni costruttive, mantenere un livello minimo di decenza e di educazione, e promuovere la condivisione libera di informazioni, è vietato:
 
@@ -7,6 +7,7 @@ Al fine di supportare discussioni costruttive, mantenere un livello minimo di de
 - Presentare opinioni come fatti senza materiale a supporto.
 - Fare domande la cui risposta può essere trovata su Google.
 - Usare nick non appropriati come [0-9a-zA-Z_\-\. ] (a discrezione).
+- Vietato trollare persone all'interno del gruppo, conseguenza il ban permanente.
 - Insultare, discriminare, spammare (Canali/Gruppi/Bot ect) senza autorizzazione, porno, file infetti.
 
 *[In aggiornamento]*
